@@ -1,0 +1,10 @@
+# Archivos que crea Python al importar módulos
+__pycache__/
+*.pyc
+
+# Canal de avisos de lgpio (lo crea la librería GPIO en la Raspberry)
+.lgd-nfy0
+
+# Ejecutables de la Parte B: se generan compilando estadistica.c
+estadistica
+**/estadistica
